@@ -1,2 +1,2 @@
 ﻿# portfolio-b201
-Live at [https://ananthakrishnanpta.github.io/portfolio-b201/](s)
+Live [here](https://ananthakrishnanpta.github.io/portfolio-b201/)
