@@ -1,0 +1,27 @@
+.grid-container {
+    border: 1px solid;
+    display: grid;
+    /* grid-template-columns: 100px 120px 100px 100px ; */
+    grid-template-columns: auto auto auto;
+
+    div{
+        background-color: blanchedalmond;
+        height: 80px;
+        width: 80px;
+        margin: 5px;
+        border: 1px solid black;
+        text-align: center ;
+    }
+
+    .item1 {
+        background-color: rgb(3, 133, 89);
+        grid-area: 3/2;
+        height: 200px;
+        width: 200px;
+    }
+
+    .item2 {
+        background-color: yellowgreen;
+    }
+
+}
